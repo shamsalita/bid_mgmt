@@ -1,0 +1,16 @@
+.bid-add-title{margin-right: 20px;}
+.table-14-fonts{font-size: 14px;}
+.left-pad-0{padding-left: 0;}
+table#example2 a.btn {
+    font-size: 12px;
+    padding: 4px 6px;
+}
+
+table#example2 td:last-child {
+    width: 150px;
+}
+table#example2{font-size: 13px;}
+#example2_wrapper .row:nth-child(2) .col-sm-12{overflow-y: auto;}
+
+a.filter_chart{cursor: pointer;}
+.success_tr{background: #d7ffd7 !important;}
